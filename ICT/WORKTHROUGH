@@ -9,5 +9,9 @@
         <li>powerpoint</li>
       <pi>local hARD DISK</pi>  
       <p2>microsoft is used by accounting department</p2>
+      <body>{
+        background; yellow
+        style:font size 2
+      </body>
     </hEAD>
 </HTML>
