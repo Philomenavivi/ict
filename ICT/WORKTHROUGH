@@ -12,6 +12,9 @@
       <body>{
         background; yellow
         style:font size 2
+        pixel 20%
+        color :red
+        <pi> word application</pi>
       </body>
     </hEAD>
 </HTML>
